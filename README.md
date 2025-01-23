@@ -1,5 +1,4 @@
 # VanguardOps
-VanguardOps
 VanguardOps is a tactical first-person shooter game inspired by Valorant, featuring strategic gameplay, unique agents, and 5v5 multiplayer action. The game emphasizes team coordination, skill, and the use of agents' abilities to outsmart opponents. Players engage in thrilling matches across diverse maps, using a variety of weapons and abilities to secure objectives and win rounds.
 
 This project is a clone of the popular Valorant game, providing a similar experience with its own unique features and design elements.
